@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * filedes - File description
+ * filedes: File description
  *
  * main - Entry point
  *
