@@ -1,13 +1,12 @@
 #include <stdio.h>
 /**
+ * filedes - File description
+ *
  * main - Entry point
  *
  * Return: Always 1 (Success)
  */
 
-/**
- * filedes - File description
- */
 int write(int filedes, const char *buf, unsigned int nbyte);
 int main(void)
 {
