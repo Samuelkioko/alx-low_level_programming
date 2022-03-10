@@ -2,12 +2,6 @@
 /**
  * main - Entry point
  *
- * filedes - filedescription
- *
- * buf - buffer
- *
- * nbyte - size 
- *
  * Return: Always 1 (Success)
  */
 int write(int filedes, const char *buf, unsigned int nbyte);
