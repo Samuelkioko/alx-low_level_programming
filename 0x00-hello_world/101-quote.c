@@ -2,9 +2,11 @@
 /**
  * main - Entry point
  *
- * filedes - File description
- *
  * Return: Always 1 (Success)
+ */
+
+/**
+ * filedes - File description
  */
 int write(int filedes, const char *buf, unsigned int nbyte);
 int main(void)
