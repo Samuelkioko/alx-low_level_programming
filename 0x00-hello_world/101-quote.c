@@ -1,7 +1,11 @@
 #include <stdio.h>
 /**
+ * write - To write the string 
  * filedes: File description
+ * buf: This is the buffer
+ * nbyte: This is the size of the string
  *
+ * Description: The write function will write the provided string
  * main - Entry point
  *
  * Return: Always 1 (Success)
