@@ -6,6 +6,7 @@
  * nbyte: This is the size of the string
  *
  * Description: The write function will write the provided string
+ *
  * main - Entry point
  *
  * Return: Always 1 (Success)
