@@ -8,12 +8,14 @@
 int main(void)
 {
 	int x = 'A';
-		do{
+		do {
 		int low_x = tolower(x);
 		putchar(low_x);
+
 		x++;
 	}
 		while (x <= 'Z');
+
 	return (0);
 
 }
