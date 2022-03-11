@@ -1,13 +1,24 @@
+/*
+ * File: 5-print_numbers.c
+ * Auth: Samuel Kioko
+ */
+
 #include <stdio.h>
 /**
- * a program that prints all single digit numbers of base 10 starting from 0, followed by a new line
  * main - Entry point
  *
- * return: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
+	int x=0;
+	do {
+		printf("%d",x);
+		x++;
+	}
+	while (x<10);
 
+	printf("\n");
 	return 0;
 }
 
