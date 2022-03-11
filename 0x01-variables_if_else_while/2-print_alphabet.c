@@ -7,11 +7,14 @@
  */
 int main(void)
 {
-	for(int x= 'A'; x <= 'Z'; x++)
+	int x= 'A';
+		do
 	{
 		int low_x = tolower(x);
 		putchar(low_x);
+		x++;
 	}
+		while(x <= 'Z');
 	return 0;
 
 }
