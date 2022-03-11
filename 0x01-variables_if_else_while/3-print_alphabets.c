@@ -1,3 +1,8 @@
+/*
+ * File: 2-print_alphabet.c
+ * Auth: Samuel Kioko
+ */
+
 #include <stdio.h>
 /**
  * a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
