@@ -1,3 +1,8 @@
+/*
+ * File: 
+ * Auth: Samuel Kioko
+ */
+
 #include <stdio.h>
 /**
  * a program that prints the alphabet in lowercase, followed by a new line.
@@ -19,4 +24,5 @@ int main(void)
 		}
 	}
 	putchar('\n');
+	return (0);
 }
