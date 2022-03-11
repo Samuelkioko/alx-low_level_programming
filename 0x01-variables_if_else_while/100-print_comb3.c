@@ -6,7 +6,7 @@
 /**
  * main - Starts here
  *
- * Return: Always 0 
+ * Return: Always 0
  */
 int main(void)
 {
@@ -18,7 +18,6 @@ int main(void)
 		{
 			putchar((num1 % 10) + '0');
 			putchar((num2 % 10) + '0');
-			
 			if (num1 == 8 && num2 == 9)
 				continue;
 			putchar(',');
