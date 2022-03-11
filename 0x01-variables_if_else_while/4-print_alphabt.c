@@ -5,8 +5,6 @@
 
 #include <stdio.h>
 /**
- * a program that prints the alphabet in lowercase, followed by a new line.
- * Print all the letters except q and e
  * main - Entry point
  *
  * return: Always 0 (Success)
