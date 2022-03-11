@@ -10,6 +10,7 @@ int main(void)
 	int x = 'A';
 		do {
 		int low_x = tolower(x);
+
 		putchar(low_x);
 
 		x++;
