@@ -11,14 +11,14 @@
  */
 int main(void)
 {
-	int x=0;
+	int x = 0;
+
 	do {
-		printf("%d",x);
+		printf("%d", x);
 		x++;
-	}
-	while (x<10);
+	}while (x < 10);
 
 	printf("\n");
-	return 0;
+	return (0);
 }
 
