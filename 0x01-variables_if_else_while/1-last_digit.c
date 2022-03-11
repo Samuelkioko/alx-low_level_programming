@@ -5,7 +5,7 @@
  * main - Entry point
  * int n - This variable will store a different value every time program is ran
  *
- * return: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -23,5 +23,5 @@ int main(void)
 	else
 		printf("Last digit of %d is %d and is 0\n", n, myLastDigit);
 
-	return 0;
+	return (0);
 }
