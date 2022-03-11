@@ -1,5 +1,5 @@
 /*
- * File: 2-print_alphabet.c
+ * File: 3-print_alphabets.c
  * Auth: Samuel Kioko
  */
 
