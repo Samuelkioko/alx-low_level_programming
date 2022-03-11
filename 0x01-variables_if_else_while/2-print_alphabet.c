@@ -1,3 +1,8 @@
+/*
+ * File: 2-print_alphabet.c
+ * Auth: Samuel Kioko
+ */
+
 #include <stdio.h>
 #include <ctype.h>
 /**
@@ -16,6 +21,7 @@ int main(void)
 		x++;
 	}
 		while (x <= 'Z');
+		putchar('\n');
 
 	return (0);
 
