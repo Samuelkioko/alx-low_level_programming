@@ -2,6 +2,12 @@
  * File: 100-atoi.c
  * Auth: Samuel Kioko
  */
+#include "main.h"
+/**
+ * _atoi - convert a string to integer
+ * @s: char array string
+ * Return: first integer found in string
+ */
 int _atoi(char *s)
 {
 	int i;
