@@ -1,7 +1,3 @@
-/*
- * File: 0-memset.c
- * Auth: Samuel Kioko
- */
 #include "main.h"
 
 /**
